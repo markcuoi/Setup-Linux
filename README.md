@@ -1,6 +1,6 @@
 # Setup-Linux
 
-##set up git-ssh
+#set up git-ssh
 
 ssh-keygen -t ed25519 -C "thanhphan10397@gmail.com"
 eval "$(ssh-agent -s)"
